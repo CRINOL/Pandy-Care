@@ -1,0 +1,123 @@
+  [
+  
+  		  {
+			"_3540": "SORE THROAT",
+            "_3541": "DO YOU HAVE A SORE THROAT?",
+            "_3542": "I first want to know if you feel pain ,scratchiness or irritation around your throat that often worsens(increases) when you swallow. The most cause of a sore throat is a viral infection,such as a cold or the flu and not necessarily covid-19. Has your voice gone low and you can't even shout? onfections causing a sore throat maybe other signs and symptoms such as cough or fever. What do you have?",
+            "_3543":"SORE THROAT & DEAD VOICE",
+            "_3544":"I HAVE TAKEN SOME TABLETS",
+            "_3545":"SORE THROAT & LITTLE PAIN",
+            "_3546":"MY THROAT IS FINE!",
+            "_3548":"true"
+    	},
+        {
+           	"_3540":"HEADACHE", 
+            "_3541": "DO YOU HAVE A HEADACHE?",
+            "_3542": "I was wondering whether you are or have been feeling headache. It could have lasted for hours or maybe intense(much painful). Has it gone yet or you still feel it. Hsve you have tried taking pain killers and still you feel the pain? The headache may be a symptom of many other infections and not covid-19. Just tap an option.",
+            "_3543": "I HAVE A STRONG HEADACHE",
+            "_3544": "I HAVE TAKEN SOME TABLETS",
+            "_3545": "I HAVE A HEADACHE",
+            "_3546": "I HAVE NO HEADACHE",
+            "_3548":"false"
+       },
+     
+
+           {
+           	"_3540":"FEVER", 
+            "_3541": "DO YOU HAVE A FEVER(HIGH TEMPERATURE)?",
+            "_3542": "Are you feeling uncomfortable, hot but not sweating? Is your temperature above 100.4F(38C) and you have been shivering lately? You could be having a fever which is a common symptom of many diseases and not just covid-19. If the shivering and shaking, feeling cold but still have a high temperature then these may be signs that you have a fever. Just tap an option.",
+            "_3543":"I HAVE A HIGH TEMPERATURE",
+            "_3544":"I HAVE TAKEN SOME TABLETS",
+            "_3545":"I THINK I HAVE A FEVER",
+            "_3546":"I HAVE NO FEVER",
+            "_3548":"true"
+      },
+        {
+        	"_3540":"RUNNING NOSE",
+            "_3541": "DO YOU HAVE A RUNNING NOSE?",
+            "_3542": "Do you have mucus coming out of your nose often these days? Like some kind of flu? Sometimes the mucus runs down the back of your throat or both? That is a running nose and could be a sign of a common cold or flu that you may have contacted from a neighbour or dusty environment and not covid-19. How is your nose?",
+            "_3543":"IT'S A RUNNING NOSE",
+            "_3544":"I HAVES TAKEN SOME TABLETS",
+            "_3545":"IT JUST HAS MUCUS",
+            "_3546":"MY NOSE IS OK!",
+            "_3548":"true"
+    	},
+    	{
+    		"_3540":"COUGH",
+            "_3541": "DO YOU HAVE A COUGH?",
+            "_3542": "Do also have a cough? It could be new on set or worsening to chronic cough, one that doesnt heal ?. A cough can be a forceful release of air from the lungs that can be heared. How often do you cough? Coughing more than three times a day on a daily basis means you cough is serious but not necessarily that you have covid-19. Do you have cough?",
+            "_3543":"YES, FREQUENT COUGHING",
+            "_3544":"I HAVE TAKEN SOME TABLETS",
+            "_3545":"YES, BUT FLU TOO",
+            "_3546":"I HAVE NO COUGH",
+            "_3548":"true"
+	    },
+	    {
+	    	"_3540":"SHORT BREATHE",
+            "_3541": "DO YOU EXPERICENCE SHORTAGE OF BREATH?",
+            "_3542": "Try holding your breathe for 10-15 seconds. Can you do it? Do you find it hard to breathe sometimes even when you have not done dat much work. You may even feel suffocated and feel a tightening in the chest.This usuall known as dyspnea. This is a long term symptom of covid-19 as well other diseases like Asthma. Bt not a confirmation of covid-19. So, do you have breathing issues?",
+            "_3543":"YES, SEVERE SHORTAGE OF BREATH",
+            "_3544":"I HAVE RECEIVED TREATMENT",
+            "_3545":"CAN'T HOLD BREATHE",
+            "_3546":"I DON'T HAVE SHORTAGE OF BREATH",
+            "_3548":"true"
+	    },
+	    {
+	    	"_3540": "VOMITING",
+            "_3541": "DO YOU HAVE NAUSEA OR MAY BE YOU VOMIT?",
+            "_3542": "How is your appetite? Do you eat as you usually do or have completely lost appetite. Perhaps you vomit nowdays, may be a little or the frequently? Vomiting is a sign of food poisonng,fainting and low blood pressure. It is not a sign of covid-19 so if you a vomiting, please don't skip the question. Just tell me and we may find a solution.",
+            "_3543":"I VOMIT FREQUENTLY",
+            "_3544":"I HAVE TAKEN SOME TABLETS",
+            "_3545":"VOMITED IN LAST 4 DAYS",
+            "_3546":"I DON'T VOMIT",
+            "_3548":"false"
+    	},
+
+  		{
+  			"_3540":"ABDOMINAL PAIN",
+            "_3541": "DO YOU FEEL ABDOMINAL PAIN?",
+            "_3542": "Do you feel pain in your stomach(NOT STOMACH ACHE)? Espeacially this usally occurs between the chest and the waist,do you feel such pain?. It can be crampy(in one spot), achy (like a stomach) ,dull,intermittent(on and off) or sharp(too much pain in one spot). It can also called stomach pain but inflammation or disease that affect the orgamns in the abdomen can cause abdominal pain.Do you have Generalized,localized,cramp-like pain?",
+            "_3543":"VERY SHARP, SEVERE AND SUDDEN ABDOMINAL PAIN",
+            "_3544":"I HAVE TAKEN SOME TABLETS",
+            "_3545":"I FEEL STOMACH ACHE",
+            "_3546":"I DONT HAVE ABDOMINAL PAIN",
+            "_3548":"false"
+    },
+
+        {
+        	"_3540": "BODY PAINS",
+            "_3541": "DO YOU HAVE MUSCLE ACHES/ BODY PAINS?",
+            "_3542": "Do you feel muscle pains alot these days? These are nomrally supposed to come after you overuse,or injure a muscle from exercise or hard physical work. But may be you believe you haven't done much work but have these pains. Muscle aches are common and can involve more than one muscle.They can be a sign of conditions affecting the whole body like Flu. You have them?",
+            "_3543":"YES I HAVE, I DON'T DO MUCH WORK",
+            "_3544":"I HAVE TAKEN SOME TABLETS",
+            "_3545":"I HAVE THEM BUT I WORKOUT",
+            "_3546":"I HAVE NO MUSCLE ACHES",
+            "_3548":"false"
+    },
+
+  {
+  			"_3540": "DIARRHEA",
+            "_3541": "DO YOU HAVE DIARRHEA?",
+            "_3542": "Do you go to the toilet so often these days, say 3-4 times a day and you pass out liquid stool. Has it lasted for more than three days?. This may result into dehydration due to fluid loss. Diarrhea is a common sign of many diseases and infections. Try ORS or may be you have already done so. Do you still pass out liquid stool?",
+            "_3543":"YES, I DO IT 3 TIMES A DAY",
+            "_3544":"I HAVE TAKEN SOME TABLETS",
+            "_3545":"YES, BUT NOT SO MUCH",
+            "_3546":"I DONT HAVE DIARHEA",
+            "_3548":"false"
+    }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  

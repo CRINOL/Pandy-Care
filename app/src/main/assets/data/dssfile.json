@@ -1,0 +1,78 @@
+  [
+          {
+        
+            "_2881": "COVID-19",
+            "_2882": "Fever,Running Nose,Sore Throat,Cough?",
+            "_2883": "PND-DSS-001"
+       },
+    
+
+           {
+
+            "_2881": "HIV",
+            "_2882":"Weight loss,Fever,Recurrent infections,white tongue?",
+            "_2883": "PND-DSS-002"
+    },
+
+          {
+            "_2881": "MALARIA",
+            "_2882": "Fever,Sweating,Joint Pains,Headache?",
+            "_2883": "PND-DSS-003"
+    },
+
+           {
+
+            "_2881": "ASTHMA",
+            "_2882": "Cough,Difficulty breathing,Rapid breathing,Chest pressure?",
+            "_2883": "PND-DSS-004"
+        },
+
+           {
+
+            "_2881": "DIABETS",
+            "_2882":"Frequent Urination,Weight loss,Dry skin,Fatigue,Body weakness?",
+            "_2883": "PND-DSS-005"
+         },
+
+           {
+
+            "_2881": "CARDIOVASCULAR",
+            "_2882": "Extreme fatigue,Constant dizziness,Fast Heart Rate,IrregularChestpain or discomfort?",
+            "_2883": "PND-DSS-006"
+      	   }
+
+        {
+
+            "_2881": "TB",
+            "_2882": "Unexpected weight loss,Coughing up blood,Fever,IrregularChestpain or discomfort,Night sweat?",
+            "_2883": "PND-DSS-007"
+      	   }
+
+           {
+
+            "_2881": "Hepatitis",
+            "_2882": "Unexpected weight loss,Dark urine,Fever,Pass out pale stools,Yellow skin or eyes?",
+            "_2883": "PND-DSS-008"
+      	   }
+         
+        {
+
+            "_2881": "immunocompromised cdnt",
+            "_2882": "Recurrent pneumonia,Bronchitis,sinus infection,Inflamation of blood organs,Dry skin?",
+            "_2883": "PND-DSS-009"
+      	   }
+          
+         {
+
+            "_2881": "Cronic renal",
+            "_2882": "High blood pressure,Anemia,Decreased urine output,Swollen feet and hands?",
+            "_2883": "PND-DSS-010"
+       	   }
+  
+        {
+
+            "_2881": "Neurodevelopmental disorder",
+            "_2882": "Attention deficit,Irritability,Dyslexia,Celebral palsy?",
+            "_2883": "PND-DSS-011"
+      	   }
+  ]

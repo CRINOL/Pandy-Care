@@ -1,0 +1,70 @@
+[
+    {
+        "_3540": "SORE THROAT",
+        "XX141": "A VERY PAINFUL THROAT",
+        "XX142": "A SLIGHTLY PAINFUL THROAT",
+        "XX140": "YOU HAVE NO SORE THROAT",
+        "_ID":"PND-SYM-001"},
+    {
+        "_3540": "HEADACHE",
+        "XX141": "A STRONG HEADACHE",
+        "XX142": "A SLIGHT HEADACHE",
+        "XX140": "YOU HAVE NO HEADACHE",
+        "_ID":"PND-SYM-002"},
+    {
+        "_3540": "FEVER",
+        "XX141": "YOU HAVE A FEVER",
+        "XX142": "YOU MAY HAVE A FEVER",
+        "XX140": "YOU HAVE NO FEVER",
+        "_ID":"PND-SYM-003"},
+    {
+        "_3540": "RUNNING NOSE",
+        "XX141": "YOU HAVE A RUNNING NOSE",
+        "XX142": "YOU HAVE FLU",
+        "XX140": "YOU HAVE NO RUNNING NOSE",
+        "_ID":"PND-SYM-004"},
+    {
+        "_3540": "COUGH",
+        "XX141": "YOU ARE FREQUENTLY COUGHING",
+        "XX142": "YOU HAVE A FLU COUGH",
+        "XX140": "YOU HAVE NO COUGH",
+        "_ID":"PND-SYM-005"},
+    {
+        "_3540": "SHORT BREATHE",
+        "XX141": "SEVERE BREATHE SHORTAGE",
+        "XX142": "SLIGHT BREATHE SHORTAGE",
+        "XX140": "YOU HAVE NO BREATHE SHORTAGE",
+        "_ID":"PND-SYM-006"},
+    {
+        "_3540": "VOMITING",
+        "XX141": "YOU ARE FREQUENTLY VOMITING",
+        "XX142": "YOU HAVE VOMITED IN LAST 4 DAYS",
+        "XX140": "YOU ARE NOT VOMITING",
+        "_ID":"PND-SYM-007"},
+    {
+        "_3540": "PAIN AREAS",
+        "XX141": "SHARP, SEVERE AND SUDDEN PAIN",
+        "XX142": "A SLIGHTLY PAINFUL BODY",
+        "XX140": "NO PAIN AREAS",
+        "_ID":"PND-SYM-008"},
+    {
+        "_3540": "BODY PAINS",
+        "XX141": "BODY ACHES OF NO KNOWN REASON",
+        "XX142": "NORMAL MUSCLE ACHES",
+        "XX140": "NO MUSCLE ACHES/BODY PAINS",
+        "_ID":"PND-SYM-009"},
+    {
+        "_3540": "DIARRHEA",
+        "XX141": "YOU HAVE SEVERE DIARRHEA",
+        "XX142": "YOU HAVE DIARRHEA",
+        "XX140": "NO DIARRHEA",
+        "_ID": "PND-SYM-010"
+    },
+    {
+        "_3540": "ABDOMINAL PAIN",
+        "XX141": "YOU HAVE SHARP ABDOMINAL PAIN",
+        "XX142": "YOU HAVE ABDOMINAL PAIN",
+        "XX140": "NO ABDOMINAL PAIN",
+        "_ID": "PND-SYM-010"
+    }
+]
